@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='nom_du_package',              # Nom du package
+    name='IaFinance',              # Nom du package
     version='0.1.0',                    # Version du package
     packages=find_packages(),           # Inclure tous les sous-packages
     author='Lucas Sauron',                 # Nom de l'auteur
